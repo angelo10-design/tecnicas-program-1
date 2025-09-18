@@ -1,1 +1,1 @@
-# tecnicas-program-1
+# tecnica-cambiada-program
